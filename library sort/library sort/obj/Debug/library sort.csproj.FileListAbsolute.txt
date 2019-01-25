@@ -1,0 +1,6 @@
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\bin\Debug\library sort.exe.config
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\bin\Debug\library sort.exe
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\bin\Debug\library sort.pdb
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\obj\Debug\library sort.csprojResolveAssemblyReference.cache
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\obj\Debug\library sort.exe
+c:\users\cdc\documents\visual studio 2013\Projects\library sort\library sort\obj\Debug\library sort.pdb
